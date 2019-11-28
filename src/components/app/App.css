@@ -1,0 +1,158 @@
+.menuList li a {
+  
+  text-decoration: none;
+  line-height: 2;
+}
+
+.menuList {
+  list-style-type: none;
+  padding-left: 0;
+  font-family: 'Raleway', sans-serif;
+  /* ***** Na później!! ***** */
+  /* font-family: 'Lora', serif; */
+}
+
+.header {
+  padding-top: 10px;
+  font-family: 'Marck Script', cursive;
+  font-weight: 250%;
+  font-size: 3.5em;
+}
+
+.leftColumn {
+  float: left;
+  width: 22%;
+  padding-right: 3%;
+}
+
+.rightColumn {
+  float: left;
+  padding-left: 3%;
+  width: 72%;
+}
+
+.twoColumns {
+  padding-left: 25%;
+  padding-right: 25%;
+}
+
+.infor {
+  border-radius: 2px;
+  background-color: rgb(255, 215, 222);
+  border: 1px solid rgb(255, 167, 182);
+  font-family: 'Raleway', sans-serif;
+  font-size: 0.7em;
+  color: rgb(87, 86, 86);
+  text-align: justify;
+  padding: 10px;
+  margin-bottom: 20px;
+  margin-top: 50px;
+}
+
+.section {
+  padding-bottom: 10px;
+}
+
+.smallTitle {
+  float: left;
+  width: 40%;
+  font-family: 'Lora', serif;
+  font-size: 0.85em;
+}
+
+.showMore {
+  float: right;
+  width: 40%;
+  font-family: 'Lora', serif;
+  font-size: 0.85em;
+  text-align: right;
+  padding-right: 12px;
+}
+
+.showMoreLink {
+  text-decoration: none;
+  color: black;
+}
+
+.subsection {
+  padding-top: 3px;
+  text-align: center;
+}
+
+.imageSection {
+  padding-top: 3px;
+  padding-left: 6px;
+  padding-right: 6px;
+  padding-bottom: 3px;
+}
+
+.followMe {
+  /* border: 2px double rgb(255, 167, 182); */
+  border-style: double;
+  border-left: 0px;
+  border-right: 0px;
+  border-color: rgb(255, 167, 182);
+  padding: 3px;
+  font-family: 'Marck Script', cursive;
+  font-size: 1.4em;
+}
+
+.followMeIcons {
+  text-align: center;
+  padding-bottom: 6px;
+}
+
+.followMeIcon {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+a:link {
+  color: black;
+  text-decoration: none;
+}
+
+/* visited link */
+
+a:visited {
+  color: black;
+}
+
+/* mouse over link */
+
+a:hover {
+  color: rgb(255, 167, 182);
+}
+
+/* selected link */
+
+a:active {
+  color: rgb(255, 167, 182);
+}
+
+.welcome {
+  font-family: 'Marck Script', cursive;
+  font-size: 1.5em;
+  padding-top: 6px;
+  padding-bottom: 6px;
+}
+
+.aboutMe {
+  font-family: 'Raleway', sans-serif;
+  font-size: 0.8em;
+  text-align: justify;
+  padding-top: 3px;
+  padding-bottom: 3px;
+}
+
+.flw {
+  font-family: 'Raleway', sans-serif;
+  font-size: 1.2em;
+  padding-top: 8px;
+}
+
+.social {
+  font-family: 'Raleway', sans-serif;
+  font-size: 0.9em;
+  padding-top: 3px;
+}
