@@ -3,15 +3,13 @@ import {
     BrowserRouter as Router,
     Route,
     Link
-  } from 'react-router-dom';
-  
+} from 'react-router-dom';
+
 class Header extends React.Component {
     render() {
-        return <Router>
-        <div className="header">
+        return <div className="header">
             <Link to="/">klamCookie</Link>
         </div>
-        </Router>
     }
 }
 

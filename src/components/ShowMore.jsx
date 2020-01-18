@@ -1,37 +1,48 @@
 import React from 'react';
+import { Link } from "react-router-dom";
 
 class ShowMore extends React.Component {
     render() {
-        let moreType = this.props.type; 
+        let moreType = this.props.type;
         // Nowe wpisy
         // Popularne wpisy
         // Przepisy wegańskie
         // Szybkie dania
         // Dla początkujących
 
-        if (moreType = "NoweWpisy"){
-            return <div className = "showMore">
-            <a href = "#" className = "showMoreLink"> pokaż więcjej >> </a>
+        if ("NoweWpisy" == moreType) {
+            return <div className="showMore">
+                <Link to="/nowe-wpisy">
+                    pokaż więcjej >>
+                </Link>
             </div>
         }
-        else if (moreType="PopularneWpisy"){
-            return <div className = "showMore">
-            <a href = "#" className = "showMoreLink"> pokaż więcjej >> </a>
+        else if ("PopularneWpisy" == moreType) {
+            return <div className="showMore">
+                <Link to="/popularne-wpisy">
+                    pokaż więcjej >>
+                </Link>
             </div>
         }
-        else if (moreType="PrzepisyWeganskie"){
-            return <div className = "showMore">
-            <a href = "#" className = "showMoreLink"> pokaż więcjej >> </a>
+        else if ("PrzepisyWeganskie" == moreType) {
+            return <div className="showMore">
+                <Link to="/przepisy-wege">
+                    pokaż więcjej >>
+                </Link>
             </div>
         }
-        else if (moreType="SzybkieDania"){
-            return <div className = "showMore">
-            <a href = "#" className = "showMoreLink"> pokaż więcjej >> </a>
+        else if ("SzybkieDania" == moreType) {
+            return <div className="showMore">
+                <Link to="/szybkie-dania">
+                    pokaż więcjej >>
+                </Link>
             </div>
         }
-        else if (moreType="DlaPoczatkujacych"){
-            return <div className = "showMore">
-            <a href = "#" className = "showMoreLink"> pokaż więcjej >> </a>
+        else if ("DlaPoczatkujacych" == moreType) {
+            return <div className="showMore">
+                <Link to="/dla-poczatkujacych">
+                    pokaż więcjej >>
+                </Link>
             </div>
         }
     }

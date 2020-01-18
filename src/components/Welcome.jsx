@@ -4,7 +4,7 @@ class Welcome extends React.Component {
     render() {
         return <div>
                     <div className = "welcome">Witaj!</div> 
-                    <img src = "/img/me.jpg" width="205px"></img>
+                    <img className="welcomeImg" src = "/img/me.jpg" width="205px"></img>
                     <div className = "aboutMe">Jestem Kamila.
                         Lorem ipsum dolor sit amet, consectetur 
                         adipiscing elit. Nullam ultrices neque 

@@ -1,11 +1,6 @@
 import React from 'react';
-import {
-    BrowserRouter as Router,
-    Switch,
-    Route,
-    Link
-  } from "react-router-dom";
-  //import Category from './Category';
+import { Link } from "react-router-dom";
+//import Category from './Category';
 
 class MenuEntry {
     constructor(category, link, linkTo) {
@@ -18,13 +13,14 @@ class MenuEntry {
 // <Link to="/">klamCookie</Link>
 class MenuList extends React.Component {
     render() {
-        let categories = [new MenuEntry("Kategorie", "#", "kategorie"),
-        new MenuEntry("Składniki", "#", "/skladniki"),
-        new MenuEntry("Pory roku", "#", "/poryRoku"),
-        new MenuEntry("Okazje", "#", "/okazje"),
-        new MenuEntry("Podstawy diety bezmięsnej", "#", "/podstawyWege"),
-        new MenuEntry("Wszystkie przepisy", "#", "/wszystkiePrzepisy"),
-        new MenuEntry("About", "#", "/about")]
+        let categories = [
+            new MenuEntry("Kategorie", "#", "kategorie"),
+            new MenuEntry("Składniki", "#", "/skladniki"),
+            new MenuEntry("Pory roku", "#", "/poryRoku"),
+            new MenuEntry("Podstawy diety bezmięsnej", "#", "/podstawyWege"),
+            new MenuEntry("Wszystkie przepisy", "#", "/wszystkiePrzepisy"),
+            new MenuEntry("O projekcie", "#", "/about")
+        ]
         const li = []
         for (let cat of categories) {
             li.push(<li><Link to={cat.linkTo}>{cat.category}</Link></li>)
@@ -32,7 +28,7 @@ class MenuList extends React.Component {
         }
 
         return <ul className="menuList"> {li} </ul>
-            
+
     }
 }
 
