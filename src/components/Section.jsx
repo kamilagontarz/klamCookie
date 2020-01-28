@@ -12,37 +12,37 @@ class Section extends React.Component {
         // Szybkie dania
         // Dla początkujących
 
-        if ("NoweWpisy" == sectionType) {
+        if ("NoweWpisy" === sectionType) {
             return <div className="section">
-                <div className = "titleAndMore">
-                <div className="smallTitle"> nowe wpisy: </div>
-                <ShowMore type="NoweWpisy" />
+                <div className="titleAndMore">
+                    <div className="smallTitle"> nowe wpisy: </div>
+                    <ShowMore type="NoweWpisy" />
                 </div>
                 <Subsection type="NoweWpisy" />
             </div>
         }
-        else if ("PopularneWpisy" == sectionType) {
+        else if ("PopularneWpisy" === sectionType) {
             return <div className="section">
                 <div className="smallTitle"> popularne wpisy: </div>
                 <ShowMore type="PopularneWpisy" />
                 <Subsection type="PopularneWpisy" />
             </div>
         }
-        else if ("PrzepisyWeganskie" == sectionType) {
+        else if ("PrzepisyWeganskie" === sectionType) {
             return <div className="section">
                 <div className="smallTitle"> przepisy weganskie: </div>
                 <ShowMore type="PrzepisyWeganskie" />
                 <Subsection type="PrzepisyWeganskie" />
             </div>
         }
-        else if ("SzybkieDania" == sectionType) {
+        else if ("SzybkieDania" === sectionType) {
             return <div className="section">
                 <div className="smallTitle"> szybkie dania: </div>
                 <ShowMore type="SzybkieDania" />
                 <Subsection type="SzybkieDania" />
             </div>
         }
-        else if ("DlaPoczatkujacych" == sectionType) {
+        else if ("DlaPoczatkujacych" === sectionType) {
             return <div className="section">
                 <div className="smallTitle"> dla początkujących </div>
                 <ShowMore type="DlaPoczatkujacych" />

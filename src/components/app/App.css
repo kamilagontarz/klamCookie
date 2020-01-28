@@ -35,8 +35,10 @@
 }
 
 .twoColumns {
-  padding-left: 25%;
-  padding-right: 25%;
+  /* padding-left: 25%; */
+  /* padding-right: 25%; */
+  max-width: 1000px;
+  margin: 0 auto;
   display: flex;
   flex-wrap: wrap;
 }
@@ -501,7 +503,7 @@ a:active {
   font-size: 1.7em;
   line-height: 0px;
 }
-.stepZeroMain p {
+.stepZeroMain p, .stepZeroMain li {
   font-family: 'Raleway', sans-serif;
   font-size: 1em;
   
@@ -511,6 +513,7 @@ a:active {
   display: flex;
   flex-direction: column;
   width: 90%;
+  max-width: 90%;
   padding-left: 5%;
   padding-right: 5%;
   padding-top: 2.5%;
@@ -536,7 +539,7 @@ a:active {
 .stepMain h1 {
   font-family: 'Lora', serif;
   font-size:2.5em;
-  line-height: 0px;
+  /* line-height: 0px; */
   text-align: center;
   font-weight: lighter;
 }

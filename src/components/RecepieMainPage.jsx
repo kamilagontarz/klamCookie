@@ -10,7 +10,7 @@ class RecipieMainPage extends React.Component {
 
             <div className="imageSectionOnlyImage">
                 <Link to={url}>
-                    <img src={imageSource}></img>
+                    <img src={imageSource} alt=""></img>
                 </Link>
             </div>
             <div className="RecipeName">

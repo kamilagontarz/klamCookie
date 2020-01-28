@@ -1,0 +1,694 @@
+[
+    {
+        "dishName": "Włoska pizza z kamienia",
+        "imageSource": "/img/sample_pizza.jpg",
+        "sampleImageSource": "/img/sample_pizza_small.jpg",
+        "url": "/danie-1",
+        "dishSourceUrl": "https://artigiano.pl/blog/przepis-na-wloska-pizze/",
+        "category": "vegetarian",
+        "seasons": [
+            "winter",
+            "summer",
+            "spring",
+            "fall"
+        ],
+        "shortDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus blandit sem vitae augue tincidunt tempus. Sed gravida, metus vel vestibulum interdum, ligula nisi tristique ante, sed viverra purus justo in enim. Suspendisse a eleifend turpis. Proin a nunc leo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed ultrices fringilla tincidunt.",
+        "desc": [
+            "Ut mattis quam finibus augue auctor, sed feugiat ex rhoncus. Vivamus nec ullamcorper nibh. Proin ac ornare odio. Phasellus gravida nunc at nisl convallis, eget eleifend arcu euismod. Phasellus et nisl augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Maecenas finibus eros vel ullamcorper feugiat. Donec lobortis in tortor at semper. Donec id facilisis eros, at aliquam leo.",
+            "Aenean malesuada purus leo, nec consequat augue mollis ac. Nam accumsan viverra eleifend. Ut varius tellus a enim posuere auctor. Cras neque mauris, viverra quis dictum euismod, malesuada et diam. Curabitur sit amet pretium odio. Mauris ac mi finibus nunc efficitur lobortis in id arcu. Donec a tortor et leo consequat tristique id nec leo. Vivamus in maximus leo. Aliquam non mi et tortor sodales ultrices ut nec arcu. Mauris imperdiet mi dui, sit amet gravida ante eleifend efficitur. Aenean ornare sem augue, in gravida arcu pellentesque nec. In malesuada, mauris quis cursus consectetur, nisl ligula dignissim mauris, vel imperdiet velit ipsum hendrerit felis. Sed in metus sed elit hendrerit venenatis. Sed quis ex odio."
+        ],
+        "time": "1h 30 min",
+        "ingrOn": "na 1 pizzę",
+        "ingredients": [
+            "340g mąki",
+            "5g Suszonych drożdży",
+            "1,5 łyżeczki cukru",
+            "1,5 łyzecki soli",
+            "2 łyżki oliwy",
+            "250 ml letniej wody"
+        ],
+        "urlToInstruction": "/step-by-step",
+        "naczynia": [
+            "miska na drożdże",
+            "duża miska do wyrobienia ciasta",
+            "granitowy kamień do pieczenia",
+            "łopatka do ciasta",
+            "wałek",
+            "piekarnik"
+        ],
+        "allSteps": [
+            {
+                "stepNumber": "1",
+                "stepDescription": "Rozpuścić drożdże w letniej wodzie",
+                "stepURL": "step-by-step-1",
+                "nextStepUrl": "step-by-step-2",
+                "previousStepURL": "step-by-step",
+                "stepImg": "/img/step-default.jpg"
+            },
+            {
+                "stepNumber": "2",
+                "stepDescription": "Odstawić na 10 minut.",
+                "stepURL": "step-by-step-2",
+                "nextStepUrl": "step-by-step-3",
+                "previousStepURL": "step-by-step-1",
+                "stepImg": "/img/step-default.jpg"
+            },
+            {
+                "stepNumber": "3",
+                "stepDescription": "W misce wymieszać mąkę, cukier, sól i wlać drożdże.",
+                "stepURL": "step-by-step-3",
+                "nextStepUrl": "step-by-step-4",
+                "previousStepURL": "step-by-step-2",
+                "stepImg": "/img/step-default.jpg"
+            },
+            {
+                "stepNumber": "4",
+                "stepDescription": "Wyrabiać ciasto około 10min, oprószając mąką, aż stanie się jednolite i elastyczne.",
+                "stepURL": "step-by-step-4",
+                "nextStepUrl": "step-by-step-5",
+                "previousStepURL": "step-by-step-3",
+                "stepImg": "/img/step-default.jpg"
+            },
+            {
+                "stepNumber": "5",
+                "stepDescription": "Odstawić ciasto na 10 minut. ",
+                "stepURL": "step-by-step-5",
+                "nextStepUrl": "step-by-step-6",
+                "previousStepURL": "step-by-step-4",
+                "stepImg": "/img/step-default.jpg"
+            },
+            {
+                "stepNumber": "6",
+                "stepDescription": "Ponownie włożyć ciasto do miski i wyrobić z oliwą.",
+                "stepURL": "step-by-step-6",
+                "nextStepUrl": "step-by-step-7",
+                "previousStepURL": "step-by-step-5",
+                "stepImg": "/img/step-default.jpg"
+            },
+            {
+                "stepNumber": "7",
+                "stepDescription": "Podzielić na porcje po 150 g i uformować w kule.",
+                "stepURL": "step-by-step-7",
+                "nextStepUrl": "step-by-step-8",
+                "previousStepURL": "step-by-step-6",
+                "stepImg": "/img/step-default.jpg"
+            },
+            {
+                "stepNumber": "8",
+                "stepDescription": "Przykryć ciasto folią i odstawić na 45 minut, aby urosło (powinno zwiększyć objętość dwukrotnie).",
+                "stepURL": "step-by-step-8",
+                "nextStepUrl": "step-by-step-9",
+                "previousStepURL": "step-by-step-7",
+                "stepImg": "/img/step-default.jpg"
+            },
+            {
+                "stepNumber": "9",
+                "stepDescription": "Kiedy ciasto wyrośnie, nagrzać piekarnik do 230C.",
+                "stepURL": "step-by-step-9",
+                "nextStepUrl": "step-by-step-10",
+                "previousStepURL": "step-by-step-8",
+                "stepImg": "/img/step-default.jpg"
+            },
+            {
+                "stepNumber": "10",
+                "stepDescription": "Oprószyć ciasto mąką i wałkować, tak by ze środka usunąć pęcherzyki powietrza. ",
+                "stepURL": "step-by-step-10",
+                "nextStepUrl": "step-by-step-11",
+                "previousStepURL": "step-by-step-9",
+                "stepImg": "/img/step-default.jpg"
+            },
+            {
+                "stepNumber": "11",
+                "stepDescription": "Uformować ciasto w placki o średnicy około 30 cm.",
+                "stepURL": "step-by-step-11",
+                "nextStepUrl": "step-by-step-12",
+                "previousStepURL": "step-by-step-10",
+                "stepImg": "/img/step-default.jpg"
+            },
+            {
+                "stepNumber": "12",
+                "stepDescription": "Ciasto przygotowujemy na drewnianej łopatce posypanej mąką co znacznie ułatwi nam przełożenie go na rozgrzany kamień",
+                "stepURL": "step-by-step-12",
+                "nextStepUrl": "step-by-step-13",
+                "previousStepURL": "step-by-step-11",
+                "stepImg": "/img/step-default.jpg"
+            },
+            {
+                "stepNumber": "13",
+                "stepDescription": "Piec na kamieniu przez 5-7 minut.",
+                "stepURL": "step-by-step-13",
+                "nextStepUrl": "last-step",
+                "previousStepURL": "step-by-step-12",
+                "stepImg": "/img/step-default.jpg"
+            }
+        ]
+    },
+    {
+        "dishName": "Wegańskie muffiny",
+        "imageSource": "/img/sample_muffin.jpg",
+        "sampleImageSource": "/img/sample_muffin_small.jpg",
+        "url": "/danie-2",
+        "dishSourceUrl": "https://ervegan.com/2015/04/najprostsze-weganskie-muffiny/",
+        "category": "vegetarian",
+        "seasons": [
+            "fall",
+            "winter",
+            "spring",
+            "summer"
+        ],
+        "shortDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus blandit sem vitae augue tincidunt tempus. Sed gravida, metus vel vestibulum interdum, ligula nisi tristique ante, sed viverra purus justo in enim. Suspendisse a eleifend turpis. Proin a nunc leo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed ultrices fringilla tincidunt.",
+        "desc": [
+            "Ut mattis quam finibus augue auctor, sed feugiat ex rhoncus. Vivamus nec ullamcorper nibh. Proin ac ornare odio. Phasellus gravida nunc at nisl convallis, eget eleifend arcu euismod. Phasellus et nisl augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Maecenas finibus eros vel ullamcorper feugiat. Donec lobortis in tortor at semper. Donec id facilisis eros, at aliquam leo.",
+            "Aenean malesuada purus leo, nec consequat augue mollis ac. Nam accumsan viverra eleifend. Ut varius tellus a enim posuere auctor. Cras neque mauris, viverra quis dictum euismod, malesuada et diam. Curabitur sit amet pretium odio. Mauris ac mi finibus nunc efficitur lobortis in id arcu. Donec a tortor et leo consequat tristique id nec leo. Vivamus in maximus leo. Aliquam non mi et tortor sodales ultrices ut nec arcu. Mauris imperdiet mi dui, sit amet gravida ante eleifend efficitur. Aenean ornare sem augue, in gravida arcu pellentesque nec. In malesuada, mauris quis cursus consectetur, nisl ligula dignissim mauris, vel imperdiet velit ipsum hendrerit felis. Sed in metus sed elit hendrerit venenatis. Sed quis ex odio."
+        ],
+        "time": "45 min",
+        "ingrOn": "na jedną blachę",
+        "ingredients": [
+            "2 szklanki mąki ",
+            "1 ½ szklanki mleka roślinnego",
+            "½ szklanki cukru",
+            "3 –4 łyżeczki proszku do pieczenia (można część zastąpić sodą oczyszczoną)",
+            "2 średnie banany, dojrzałe",
+            "1 łyżka oleju (opcjonalnie)",
+            "miąższ z ½ laski wanilii",
+            "dodatki: orzechy, owoce, kawałki czekolady, Twoje ulubione przyprawy"
+        ],
+        "urlToInstruction": "/step-by-step",
+        "naczynia": [
+            "duża miska do wymieszania składników",
+            "mniejsza miska na banany",
+            "widelec",
+            "trzepaczka lub mikser",
+            "piekarnik",
+            "blaszka do pieczenia muffinów"
+        ],
+        "allSteps": [
+            {
+                "stepNumber": "1",
+                "stepDescription": "Suche składniki wymieszaj w większej misce.",
+                "stepURL": "step-by-step-1",
+                "nextStepUrl": "step-by-step-2",
+                "previousStepURL": "step-by-step",
+                "stepImg": "/img/step-default.jpg"
+            },
+            {
+                "stepNumber": "2",
+                "stepDescription": "W drugiej misce dokładnie ugnieć banany widelcem na gadką masę.",
+                "stepURL": "step-by-step-2",
+                "nextStepUrl": "step-by-step-3",
+                "previousStepURL": "step-by-step-1",
+                "stepImg": "/img/step-default.jpg"
+            },
+            {
+                "stepNumber": "3",
+                "stepDescription": "Do ugniecionych bananów dodaj mleko oraz miąższ z wanilii.",
+                "stepURL": "step-by-step-3",
+                "nextStepUrl": "step-by-step-4",
+                "previousStepURL": "step-by-step-2",
+                "stepImg": "/img/step-default.jpg"
+            },
+            {
+                "stepNumber": "4",
+                "stepDescription": "Do suchych składników wlej mokre.",
+                "stepURL": "step-by-step-4",
+                "nextStepUrl": "step-by-step-5",
+                "previousStepURL": "step-by-step-3",
+                "stepImg": "/img/step-default.jpg"
+            },
+            {
+                "stepNumber": "5",
+                "stepDescription": "Dokładnie wymieszaj składniki trzepaczką do pieczenia.",
+                "stepURL": "step-by-step-5",
+                "nextStepUrl": "step-by-step-6",
+                "previousStepURL": "step-by-step-4",
+                "stepImg": "/img/step-default.jpg"
+            },
+            {
+                "stepNumber": "6",
+                "stepDescription": "Dodaj swoje ulubione przyprawy.",
+                "stepURL": "step-by-step-6",
+                "nextStepUrl": "step-by-step-7",
+                "previousStepURL": "step-by-step-5",
+                "stepImg": "/img/step-default.jpg"
+            },
+            {
+                "stepNumber": "7",
+                "stepDescription": "Nastaw piekarnik na 180 stopni.",
+                "stepURL": "step-by-step-7",
+                "nextStepUrl": "step-by-step-8",
+                "previousStepURL": "step-by-step-6",
+                "stepImg": "/img/step-default.jpg"
+            },
+            {
+                "stepNumber": "8",
+                "stepDescription": "Blaszkę do pieczenia muffinów wysmaruj olejem lub wyłóż papierowymi foremkami.",
+                "stepURL": "step-by-step-8",
+                "nextStepUrl": "step-by-step-9",
+                "previousStepURL": "step-by-step-7",
+                "stepImg": "/img/step-default.jpg"
+            },
+            {
+                "stepNumber": "9",
+                "stepDescription": "Do każdego miejsca na muffina wlej ciasto do około ¾ wysokości.",
+                "stepURL": "step-by-step-9",
+                "nextStepUrl": "step-by-step-10",
+                "previousStepURL": "step-by-step-8",
+                "stepImg": "/img/step-default.jpg"
+            },
+            {
+                "stepNumber": "10",
+                "stepDescription": "Dodaj orzechy",
+                "stepURL": "step-by-step-10",
+                "nextStepUrl": "step-by-step-11",
+                "previousStepURL": "step-by-step-9",
+                "stepImg": "/img/step-default.jpg"
+            },
+            {
+                "stepNumber": "11",
+                "stepDescription": "Piecz 40 minut, do momentu aż muffiny zacznął się rumienić",
+                "stepURL": "step-by-step-11",
+                "nextStepUrl": "last-step",
+                "previousStepURL": "step-by-step-10",
+                "stepImg": "/img/step-default.jpg"
+            }
+        ]
+    },
+    {
+        "dishName": "Wege tacos",
+        "imageSource": "/img/sample_snack.jpg",
+        "sampleImageSource": "/img/sample_snack_small.jpg",
+        "url": "/danie-3",
+        "dishSourceUrl": "https://beachpliz.pl/domowe-wege-tacos/",
+        "category": "vegetarian",
+        "seasons": [
+            "spring",
+            "summer",
+            "fall",
+            "winter"
+        ],
+        "shortDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus blandit sem vitae augue tincidunt tempus. Sed gravida, metus vel vestibulum interdum, ligula nisi tristique ante, sed viverra purus justo in enim. Suspendisse a eleifend turpis. Proin a nunc leo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed ultrices fringilla tincidunt.",
+        "desc": [
+            "Ut mattis quam finibus augue auctor, sed feugiat ex rhoncus. Vivamus nec ullamcorper nibh. Proin ac ornare odio. Phasellus gravida nunc at nisl convallis, eget eleifend arcu euismod. Phasellus et nisl augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Maecenas finibus eros vel ullamcorper feugiat. Donec lobortis in tortor at semper. Donec id facilisis eros, at aliquam leo.",
+            "Aenean malesuada purus leo, nec consequat augue mollis ac. Nam accumsan viverra eleifend. Ut varius tellus a enim posuere auctor. Cras neque mauris, viverra quis dictum euismod, malesuada et diam. Curabitur sit amet pretium odio. Mauris ac mi finibus nunc efficitur lobortis in id arcu. Donec a tortor et leo consequat tristique id nec leo. Vivamus in maximus leo. Aliquam non mi et tortor sodales ultrices ut nec arcu. Mauris imperdiet mi dui, sit amet gravida ante eleifend efficitur. Aenean ornare sem augue, in gravida arcu pellentesque nec. In malesuada, mauris quis cursus consectetur, nisl ligula dignissim mauris, vel imperdiet velit ipsum hendrerit felis. Sed in metus sed elit hendrerit venenatis. Sed quis ex odio."
+        ],
+        "time": "45 min - 1h",
+        "ingrOn": "na 4 porcje",
+        "ingredients": [
+            "250 gramów mąki masa harina",
+            "270 ml gorącej wody",
+            "2 szypty soli",
+            "szczypta kurkumy (opcjonalnie)",
+            "2 świeże kukurydze",
+            "1 łyżka masła",
+            "odrobina papryki wędzonej",
+            "żółta cukinia",
+            "czerwona paptyka",
+            "czerwona cebula",
+            "2 ząbki czosnku",
+            "cytryna",
+            "chilli w proszku",
+            "tabasco",
+            "2 pomidory malinowe",
+            "odrobina miodu",
+            "jedno duże, miękkie awokado",
+            "sok z limonki",
+            "1/2 czerwonej cebuli",
+            "pomidor",
+            "świeża kolendra",
+            "sól i pieprz"
+        ],
+        "urlToInstruction": "/step-by-step",
+        "naczynia": [
+            "miska",
+            "folia spożywcza",
+            "patelnia",
+            "szklana butelka",
+            "garnek (do zagotowania kukurydzy)",
+            "nóż"
+        ],
+        "allSteps": [
+            {
+                "stepNumber": "1",
+                "stepDescription": "W misce łączymy ze sobą odmierzoną ilość mąki z wodą.",
+                "stepURL": "step-by-step-1",
+                "nextStepUrl": "step-by-step-2",
+                "previousStepURL": "step-by-step",
+                "stepImg": "/img/step-default.jpg"
+            },
+            {
+                "stepNumber": "2",
+                "stepDescription": "Wyrabiamy ciasto ręcznie. ",
+                "stepURL": "step-by-step-2",
+                "nextStepUrl": "step-by-step-3",
+                "previousStepURL": "step-by-step-1",
+                "stepImg": "/img/step-default.jpg"
+            },
+            {
+                "stepNumber": "3",
+                "stepDescription": "Po wyrobieniu przykrywamy miskę folią i odkładamy na bok na mniej więcej 45 minut.",
+                "stepURL": "step-by-step-3",
+                "nextStepUrl": "step-by-step-4",
+                "previousStepURL": "step-by-step-2",
+                "stepImg": "/img/step-default.jpg"
+            },
+            {
+                "stepNumber": "4",
+                "stepDescription": "Dzielimy ciasto na kulki wielkości piłeczek pingpongowych.",
+                "stepURL": "step-by-step-4",
+                "nextStepUrl": "step-by-step-5",
+                "previousStepURL": "step-by-step-3",
+                "stepImg": "/img/step-default.jpg"
+            },
+            {
+                "stepNumber": "5",
+                "stepDescription": "Wałkujemy ciasto przez folię spożywczą",
+                "stepURL": "step-by-step-5",
+                "nextStepUrl": "step-by-step-6",
+                "previousStepURL": "step-by-step-4",
+                "stepImg": "/img/step-default.jpg"
+            },
+            {
+                "stepNumber": "6",
+                "stepDescription": "Gotowe placki smażymy bez tłuszczu na bardzo rozgrzanej patelni.",
+                "stepURL": "step-by-step-6",
+                "nextStepUrl": "step-by-step-7",
+                "previousStepURL": "step-by-step-5",
+                "stepImg": "/img/step-default.jpg"
+            },
+            {
+                "stepNumber": "7",
+                "stepDescription": "Kiedy placki są jeszcze gorące, kładziemy je na szklanej butelce, i formujemy w kształt łódeczek aby były idealne do napełnienia.",
+                "stepURL": "step-by-step-7",
+                "nextStepUrl": "last-step",
+                "previousStepURL": "step-by-step-6",
+                "stepImg": "/img/step-default.jpg"
+            }
+        ]
+    },
+    {
+        "dishName": "Sałatka z grillowanych warzyw",
+        "imageSource": "/img/sample_snack2.jpg",
+        "sampleImageSource": "/img/sample_snack2_small.jpg",
+        "url": "/danie-4",
+        "dishSourceUrl": "https://www.przepisy.pl/przepis/salatka-z-grillowanych-warzyw-1",
+        "category": "vegetarian",
+        "seasons": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "shortDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus blandit sem vitae augue tincidunt tempus. Sed gravida, metus vel vestibulum interdum, ligula nisi tristique ante, sed viverra purus justo in enim. Suspendisse a eleifend turpis. Proin a nunc leo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed ultrices fringilla tincidunt.",
+        "desc": [
+            "Ut mattis quam finibus augue auctor, sed feugiat ex rhoncus. Vivamus nec ullamcorper nibh. Proin ac ornare odio. Phasellus gravida nunc at nisl convallis, eget eleifend arcu euismod. Phasellus et nisl augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Maecenas finibus eros vel ullamcorper feugiat. Donec lobortis in tortor at semper. Donec id facilisis eros, at aliquam leo.",
+            "Aenean malesuada purus leo, nec consequat augue mollis ac. Nam accumsan viverra eleifend. Ut varius tellus a enim posuere auctor. Cras neque mauris, viverra quis dictum euismod, malesuada et diam. Curabitur sit amet pretium odio. Mauris ac mi finibus nunc efficitur lobortis in id arcu. Donec a tortor et leo consequat tristique id nec leo. Vivamus in maximus leo. Aliquam non mi et tortor sodales ultrices ut nec arcu. Mauris imperdiet mi dui, sit amet gravida ante eleifend efficitur. Aenean ornare sem augue, in gravida arcu pellentesque nec. In malesuada, mauris quis cursus consectetur, nisl ligula dignissim mauris, vel imperdiet velit ipsum hendrerit felis. Sed in metus sed elit hendrerit venenatis. Sed quis ex odio."
+        ],
+        "time": "30 min",
+        "ingrOn": "na porcję dla dwóch osób",
+        "ingredients": [
+            "cukinia ",
+            "bakłażan",
+            "sos sałatkowy",
+            "ząbek czosnku",
+            "cytryna",
+            "czerwona papryka",
+            "oliwa z oliwek"
+        ],
+        "urlToInstruction": "/step-by-step",
+        "naczynia": [
+            "nóż",
+            "miska",
+            "patelnia grillowa"
+        ],
+        "allSteps": [
+            {
+                "stepNumber": "1",
+                "stepDescription": "Dokładnie umyj warzywa",
+                "stepURL": "step-by-step-1",
+                "nextStepUrl": "step-by-step-2",
+                "previousStepURL": "step-by-step",
+                "stepImg": "/img/step-default.jpg"
+            },
+            {
+                "stepNumber": "2",
+                "stepDescription": "Cukinię pokrój w plastry o grubości 0,5 cm.",
+                "stepURL": "step-by-step-2",
+                "nextStepUrl": "step-by-step-3",
+                "previousStepURL": "step-by-step-1",
+                "stepImg": "/img/step-default.jpg"
+            },
+            {
+                "stepNumber": "3",
+                "stepDescription": "Bakłażana pokrój w plastry o grubości 0,5cm.",
+                "stepURL": "step-by-step-3",
+                "nextStepUrl": "step-by-step-4",
+                "previousStepURL": "step-by-step-2",
+                "stepImg": "/img/step-default.jpg"
+            },
+            {
+                "stepNumber": "4",
+                "stepDescription": "Paprykę oczyść z gniazd nasiennych. Miąższ pokrój w duże kawałki.",
+                "stepURL": "step-by-step-4",
+                "nextStepUrl": "step-by-step-5",
+                "previousStepURL": "step-by-step-3",
+                "stepImg": "/img/step-default.jpg"
+            },
+            {
+                "stepNumber": "5",
+                "stepDescription": "W misce połącz sos sałatkowy z oliwą.",
+                "stepURL": "step-by-step-5",
+                "nextStepUrl": "step-by-step-6",
+                "previousStepURL": "step-by-step-4",
+                "stepImg": "/img/step-default.jpg"
+            },
+            {
+                "stepNumber": "6",
+                "stepDescription": "Odstaw sos na 10 minut.",
+                "stepURL": "step-by-step-6",
+                "nextStepUrl": "step-by-step-7",
+                "previousStepURL": "step-by-step-5",
+                "stepImg": "/img/step-default.jpg"
+            },
+            {
+                "stepNumber": "7",
+                "stepDescription": "Wszystkie warzywa grilluj po kilka minut z każdej strony",
+                "stepURL": "step-by-step-7",
+                "nextStepUrl": "step-by-step-8",
+                "previousStepURL": "step-by-step-6",
+                "stepImg": "/img/step-default.jpg"
+            },
+            {
+                "stepNumber": "8",
+                "stepDescription": "Sałatkę można podawać na ciepło jak i na zimno.",
+                "stepURL": "step-by-step-8",
+                "nextStepUrl": "last-step",
+                "previousStepURL": "step-by-step-7",
+                "stepImg": "/img/step-default.jpg"
+            }
+        ]
+    },
+    {
+        "dishName": "Kanapka Grilled Cheese",
+        "imageSource": "/img/sample_tost.jpg",
+        "sampleImageSource": "/img/sample_tost_small.jpg",
+        "url": "/danie-5",
+        "dishSourceUrl": "http://kuchniaagaty.pl/przepisy/grillowane-kanapki-z-serem-grilled-cheese-sandwich",
+        "category": "vegetarian",
+        "seasons": [
+            "fall",
+            "winter",
+            "spring",
+            "summer"
+        ],
+        "shortDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus blandit sem vitae augue tincidunt tempus. Sed gravida, metus vel vestibulum interdum, ligula nisi tristique ante, sed viverra purus justo in enim. Suspendisse a eleifend turpis. Proin a nunc leo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed ultrices fringilla tincidunt.",
+        "desc": [
+            "Ut mattis quam finibus augue auctor, sed feugiat ex rhoncus. Vivamus nec ullamcorper nibh. Proin ac ornare odio. Phasellus gravida nunc at nisl convallis, eget eleifend arcu euismod. Phasellus et nisl augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Maecenas finibus eros vel ullamcorper feugiat. Donec lobortis in tortor at semper. Donec id facilisis eros, at aliquam leo.",
+            "Aenean malesuada purus leo, nec consequat augue mollis ac. Nam accumsan viverra eleifend. Ut varius tellus a enim posuere auctor. Cras neque mauris, viverra quis dictum euismod, malesuada et diam. Curabitur sit amet pretium odio. Mauris ac mi finibus nunc efficitur lobortis in id arcu. Donec a tortor et leo consequat tristique id nec leo. Vivamus in maximus leo. Aliquam non mi et tortor sodales ultrices ut nec arcu. Mauris imperdiet mi dui, sit amet gravida ante eleifend efficitur. Aenean ornare sem augue, in gravida arcu pellentesque nec. In malesuada, mauris quis cursus consectetur, nisl ligula dignissim mauris, vel imperdiet velit ipsum hendrerit felis. Sed in metus sed elit hendrerit venenatis. Sed quis ex odio."
+        ],
+        "time": "15 min",
+        "ingrOn": "",
+        "ingredients": [
+            "chleb (najlepiej pszenny na zakwasie) - 4 grube kromki",
+            "masło - 1-2 łyżki",
+            "cheddar - 4 plastry",
+            "mozzarella - 1/2 kuli",
+            "jajko sadzone - 2 sztuki, opcjonalnie",
+            "sos chili, szczypioer, pieprz - do podania, opcjonalnie "
+        ],
+        "urlToInstruction": "/step-by-step",
+        "naczynia": [
+            "nóż",
+            "patelnia (najlepiej żeliwna)"
+        ],
+        "allSteps": [
+            {
+                "stepNumber": "1",
+                "stepDescription": "Kromki chleba posmaruj masłem.",
+                "stepURL": "step-by-step-1",
+                "nextStepUrl": "step-by-step-2",
+                "previousStepURL": "step-by-step",
+                "stepImg": "/img/step-default.jpg"
+            },
+            {
+                "stepNumber": "2",
+                "stepDescription": "Rozgrzej patelnię.",
+                "stepURL": "step-by-step-2",
+                "nextStepUrl": "step-by-step-3",
+                "previousStepURL": "step-by-step-1",
+                "stepImg": "/img/step-default.jpg"
+            },
+            {
+                "stepNumber": "3",
+                "stepDescription": "Ułóż na patelni dwie kromki chleba masłem do dołu. Na chlebie ułóż oba rodzaje sera i przykryj drugą kromką, tym razem masłem do góry",
+                "stepURL": "step-by-step-3",
+                "nextStepUrl": "step-by-step-4",
+                "previousStepURL": "step-by-step-2",
+                "stepImg": "/img/step-default.jpg"
+            },
+            {
+                "stepNumber": "4",
+                "stepDescription": "Smaż na małym ogniu, aż spód się zarumieni.",
+                "stepURL": "step-by-step-4",
+                "nextStepUrl": "step-by-step-5",
+                "previousStepURL": "step-by-step-3",
+                "stepImg": "/img/step-default.jpg"
+            },
+            {
+                "stepNumber": "5",
+                "stepDescription": "Przełóż na drugą stronę, ponownie usmaż.",
+                "stepURL": "step-by-step-5",
+                "nextStepUrl": "step-by-step-6",
+                "previousStepURL": "step-by-step-4",
+                "stepImg": "/img/step-default.jpg"
+            },
+            {
+                "stepNumber": "6",
+                "stepDescription": "Kanapki podawaj na gorąco, np. z jajkiem sadzonym na wierzchu.",
+                "stepURL": "step-by-step-6",
+                "nextStepUrl": "last-step",
+                "previousStepURL": "step-by-step-5",
+                "stepImg": "/img/step-default.jpg"
+            }
+        ]
+    },
+    {
+        "dishName": "Gofry owocowe",
+        "imageSource": "/img/sample_waffles.jpg",
+        "sampleImageSource": "/img/sample_waffles_small.jpg",
+        "url": "/danie-6",
+        "dishSourceUrl": "https://www.przyslijprzepis.pl/przepis/gofry-z-bita-smietana-i-owocami-5",
+        "category": "vegetarian",
+        "seasons": [
+            "fall",
+            "winter",
+            "spring",
+            "summer"
+        ],
+        "shortDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus blandit sem vitae augue tincidunt tempus. Sed gravida, metus vel vestibulum interdum, ligula nisi tristique ante, sed viverra purus justo in enim. Suspendisse a eleifend turpis. Proin a nunc leo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed ultrices fringilla tincidunt.",
+        "desc": [
+            "Ut mattis quam finibus augue auctor, sed feugiat ex rhoncus. Vivamus nec ullamcorper nibh. Proin ac ornare odio. Phasellus gravida nunc at nisl convallis, eget eleifend arcu euismod. Phasellus et nisl augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Maecenas finibus eros vel ullamcorper feugiat. Donec lobortis in tortor at semper. Donec id facilisis eros, at aliquam leo.",
+            "Aenean malesuada purus leo, nec consequat augue mollis ac. Nam accumsan viverra eleifend. Ut varius tellus a enim posuere auctor. Cras neque mauris, viverra quis dictum euismod, malesuada et diam. Curabitur sit amet pretium odio. Mauris ac mi finibus nunc efficitur lobortis in id arcu. Donec a tortor et leo consequat tristique id nec leo. Vivamus in maximus leo. Aliquam non mi et tortor sodales ultrices ut nec arcu. Mauris imperdiet mi dui, sit amet gravida ante eleifend efficitur. Aenean ornare sem augue, in gravida arcu pellentesque nec. In malesuada, mauris quis cursus consectetur, nisl ligula dignissim mauris, vel imperdiet velit ipsum hendrerit felis. Sed in metus sed elit hendrerit venenatis. Sed quis ex odio."
+        ],
+        "time": "30 min",
+        "ingrOn": "na jedną blachę",
+        "ingredients": [
+            "3 szklanki mąki",
+            "2,5 szklanki mleka",
+            "pół szklanki oleju",
+            "3 jajka",
+            "2 płaskie łyżeczki proszku do pieczenia",
+            "2 łyżki cukru",
+            "bita śmietana",
+            "owoce: kiwi,gruszka, banan,truskawki"
+        ],
+        "urlToInstruction": "/step-by-step",
+        "naczynia": [
+            "gofrownica",
+            "2 miski",
+            "kraktka do studzenia",
+            "nóż"
+        ],
+        "allSteps": [
+            {
+                "stepNumber": "1",
+                "stepDescription": "Żółtka oddziel od białek.",
+                "stepURL": "step-by-step-1",
+                "nextStepUrl": "step-by-step-2",
+                "previousStepURL": "step-by-step",
+                "stepImg": "/img/step-default.jpg"
+            },
+            {
+                "stepNumber": "2",
+                "stepDescription": "Utrzyj żółrka z cukrem.",
+                "stepURL": "step-by-step-2",
+                "nextStepUrl": "step-by-step-3",
+                "previousStepURL": "step-by-step-1",
+                "stepImg": "/img/step-default.jpg"
+            },
+            {
+                "stepNumber": "3",
+                "stepDescription": "Dodawaj naprzemiennie mąkę przesianą z proszkiem do pieczenia, mleko i olej.",
+                "stepURL": "step-by-step-3",
+                "nextStepUrl": "step-by-step-4",
+                "previousStepURL": "step-by-step-2",
+                "stepImg": "/img/step-default.jpg"
+            },
+            {
+                "stepNumber": "4",
+                "stepDescription": "Ubij białka ze szczyptą soli na sztywną pianę.",
+                "stepURL": "step-by-step-4",
+                "nextStepUrl": "step-by-step-5",
+                "previousStepURL": "step-by-step-3",
+                "stepImg": "/img/step-default.jpg"
+            },
+            {
+                "stepNumber": "5",
+                "stepDescription": "Delikatnie połącz pianę z masą, tak aby miała konsystencje gęstej śmietany.",
+                "stepURL": "step-by-step-5",
+                "nextStepUrl": "step-by-step-6",
+                "previousStepURL": "step-by-step-4",
+                "stepImg": "/img/step-default.jpg"
+            },
+            {
+                "stepNumber": "6",
+                "stepDescription": "Ciasto nakłądaj na gofrownicę i piecz po 3-4 minuty.",
+                "stepURL": "step-by-step-6",
+                "nextStepUrl": "step-by-step-7",
+                "previousStepURL": "step-by-step-5",
+                "stepImg": "/img/step-default.jpg"
+            },
+            {
+                "stepNumber": "7",
+                "stepDescription": "Studź na kratce",
+                "stepURL": "step-by-step-7",
+                "nextStepUrl": "step-by-step-8",
+                "previousStepURL": "step-by-step-6",
+                "stepImg": "/img/step-default.jpg"
+            },
+            {
+                "stepNumber": "8",
+                "stepDescription": "Umyj truskawiki i gruszkę, banana i kiwi obierz ze skórki.",
+                "stepURL": "step-by-step-8",
+                "nextStepUrl": "step-by-step-9",
+                "previousStepURL": "step-by-step-7",
+                "stepImg": "/img/step-default.jpg"
+            },
+            {
+                "stepNumber": "9",
+                "stepDescription": "Pokrój owoce w kostkę.",
+                "stepURL": "step-by-step-9",
+                "nextStepUrl": "step-by-step-10",
+                "previousStepURL": "step-by-step-8",
+                "stepImg": "/img/step-default.jpg"
+            },
+            {
+                "stepNumber": "10",
+                "stepDescription": "Udekoruj gofry bitą śmietaną i owocami.",
+                "stepURL": "step-by-step-10",
+                "nextStepUrl": "last-step",
+                "previousStepURL": "step-by-step-9",
+                "stepImg": "/img/step-default.jpg"
+            }
+        ]
+    }
+]

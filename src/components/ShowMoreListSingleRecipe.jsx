@@ -9,7 +9,7 @@ class ShowMoreListSingleRecipe extends React.Component {
         let time = this.props.time;
         return <Link to={link}>
             <div className="showMoreListSingleReicpe">
-                <img className="showMoreListSingleReicpeImage" src={imgSource}>
+                <img className="showMoreListSingleReicpeImage" src={imgSource} alt="">
                 </img>
 
                 <div className="showMoreListNameAndDesc">
